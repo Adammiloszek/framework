@@ -26,27 +26,27 @@ namespace Main_project.SerwerPakiet
 
         public bool GetZakończone()
         {
-            throw new System.Exception("Not implemented");
+            return zakończone;
         }
 
         public long GetZaawansowanieObliczeń()
         {
-            throw new System.Exception("Not implemented");
+            return zaawansowanieObliczeń;
         }
 
         public void SetZaawansowanieObliczeń(long zaawansowanieObliczeń)
         {
-            throw new System.Exception("Not implemented");
+            this.zaawansowanieObliczeń = zaawansowanieObliczeń;
         }
 
         public int GetPort()
         {
-            throw new System.Exception("Not implemented");
+            return this.port;
         }
 
         public void SetPort(int port)
         {
-            throw new System.Exception("Not implemented");
+            this.port = port;
         }
 
         private int port;
