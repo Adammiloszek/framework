@@ -1,12 +1,17 @@
 using System;
+using System.Net.Sockets;
+using System.Net;
 
 namespace Main_project.SerwerPakiet
 {
     public class Serwer
     {
+       
+
         public Serwer(int port, string hasło)
         {
-            throw new System.Exception("Not implemented");
+           
+            
         }
 
         public void SygnalizujAtakDDos()
