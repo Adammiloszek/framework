@@ -4,14 +4,35 @@ namespace Main_project.WspólnyPakiet
 {
     public class Odczytywanie : Main_project.WspólnyPakiet.ObsługaPlików
     {
-        public byte[] OdczytajBinarnie()
+        //odczytywanie pliku z bajtami
+        public byte[] OdczytajBinarnie(string SciezkaDoPliku)
         {
-            throw new System.Exception("Not implemented");
-        }
+            try
+            {
 
-        public string OdczytajTekstowo()
+                byte[] dane = File.ReadAllBytes(SciezkaDoPliku);
+                return dane;
+            }
+            catch (Exception)
+            {
+
+                throw;
+            }
+        }
+        //odczytywanie pliku ze stringiem 
+        public string OdczytajTekstowo(string SciezkaDoPliku)
         {
-            throw new System.Exception("Not implemented");
+            try
+            {
+
+                string dane = System.IO.File.ReadAllText(SciezkaDoPliku);
+
+                return dane;
+            }
+            catch (Exception)
+            {
+                throw;
+            }
         }
 
     }
