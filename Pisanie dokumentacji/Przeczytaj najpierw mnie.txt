@@ -1,0 +1,33 @@
+﻿Pliki w tym folderze pomagają zrozumieć, jak pisać dokumentację programu.
+
+1. Zacznijcie od przeczytania wykładu.
+
+2. Przede wszystkim przyjmujemy standard xml, typowy dla C# i proszę, żeby WSZYSCY się go trzymali. Jedynie nieliczne wstawki będą takie jak w Javie.
+
+3. Standard dla C# wygląda mniej więcej tak:
+/// - dokładnie trzy "slesze", tag dokumentacyjny rozpoczynający każdy komentarz
+Następnie używamy tagów xml-owych. Tu są wszystkie obsługiwane przez Doxygen: http://www.stack.nl/~dimitri/doxygen/manual/xmlcmds.html
+Najważniejsze to:
+<summary> - streszczenie, opis metod
+<param> - przypisanie określonego komentarza do określonej zmiennej (atrybut name) np. <param name='Generator'> (przykład z wykładu)
+<br/> - łamanie linii
+<see> - powiązanie opisów, odwołanie się do innego fragmentu dokumentacji.
+
+
+Wygląda to wszystko np. tak:
+/// <summary>
+/// Metoda losująca stan genu z
+/// prawdopodobieństwem 0.5
+/// </summary>
+/// <returns>
+/// Zwraca stan genu
+/// </returns>
+/// <param name='Generator'>
+/// Instancja generatora liczb losowych
+/// (w programie powinna być tylko jedna
+/// instancja klasy Random)
+/// </param>
+private bool LosujGen(Random Generator)
+
+Jak widać, piszemy PRZED metodą, PRZED tym, co komentujemy.
+
