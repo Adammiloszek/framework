@@ -1,0 +1,5 @@
+C:\Arek\Download\NAUKA\nauka2014-2015-2\inrzyneria\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Arek\Download\NAUKA\nauka2014-2015-2\inrzyneria\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Arek\Download\NAUKA\nauka2014-2015-2\inrzyneria\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Arek\Download\NAUKA\nauka2014-2015-2\inrzyneria\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Arek\Download\NAUKA\nauka2014-2015-2\inrzyneria\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

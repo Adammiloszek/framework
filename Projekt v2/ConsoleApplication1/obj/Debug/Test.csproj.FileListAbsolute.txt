@@ -1,0 +1,20 @@
+C:\Arek\Download\NAUKA\nauka2014-2015-2\inrzyneria\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Arek\Download\NAUKA\nauka2014-2015-2\inrzyneria\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Arek\Download\NAUKA\nauka2014-2015-2\inrzyneria\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Arek\Download\NAUKA\nauka2014-2015-2\inrzyneria\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Arek\Download\NAUKA\nauka2014-2015-2\inrzyneria\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Arek\Download\NAUKA\nauka2014-2015-2\inrzyneria\Projekt v2\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Arek\Download\NAUKA\nauka2014-2015-2\inrzyneria\Projekt v2\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Arek\Download\NAUKA\nauka2014-2015-2\inrzyneria\Projekt v2\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Arek\Download\NAUKA\nauka2014-2015-2\inrzyneria\Projekt v2\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Arek\Download\NAUKA\nauka2014-2015-2\inrzyneria\Projekt v2\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Arek\Download\NAUKA\nauka2014-2015-2\inrzyneria\Projekt v2\ConsoleApplication1\obj\Debug\Test.csprojResolveAssemblyReference.cache
+F:\Projekt v2\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+F:\Projekt v2\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+F:\Projekt v2\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\st\Desktop\Projekt v2\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\st\Desktop\Projekt v2\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\st\Desktop\Projekt v2\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\st\Desktop\Projekt v2\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\st\Desktop\Projekt v2\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\st\Desktop\Projekt v2\ConsoleApplication1\obj\Debug\Test.csprojResolveAssemblyReference.cache
