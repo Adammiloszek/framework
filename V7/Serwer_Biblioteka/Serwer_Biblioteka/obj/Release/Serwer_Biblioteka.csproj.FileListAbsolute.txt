@@ -1,0 +1,4 @@
+F:\V6\Serwer_Biblioteka\Serwer_Biblioteka\bin\Release\Serwer_Biblioteka.dll
+F:\V6\Serwer_Biblioteka\Serwer_Biblioteka\bin\Release\Serwer_Biblioteka.pdb
+F:\V6\Serwer_Biblioteka\Serwer_Biblioteka\obj\Release\Serwer_Biblioteka.dll
+F:\V6\Serwer_Biblioteka\Serwer_Biblioteka\obj\Release\Serwer_Biblioteka.pdb
