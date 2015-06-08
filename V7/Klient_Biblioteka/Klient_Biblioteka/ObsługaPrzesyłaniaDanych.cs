@@ -30,7 +30,13 @@ namespace Klient_Biblioteka
             get { return parametry; }
             set { parametry = value; }
         }
-        
+
+        /// <summary>
+        /// Wysyła dane typu byte[], stala wielkosc tabeli 256
+        /// Najpierw przesyla typ danych
+        /// </summary>
+        /// <param name="klient">klient połączenia</param>
+        /// <param name="dane">dane byte[256] do przesłania</param>
         public void WyślijDane(TcpClient klient, byte[] dane)
         {
             BinaryWriter writer = new BinaryWriter(klient.GetStream());
@@ -38,14 +44,25 @@ namespace Klient_Biblioteka
             writer.Write(dane);
 
         }
-
+        /// <summary>
+        /// Wysyła dane typu string
+        /// Najpierw przesyla typ danych
+        /// </summary>
+        /// <param name="klient">klient połączenia</param>
+        /// <param name="dane">dane typu string do przesłania</param>
         public void WyślijDane(TcpClient klient, string dane)
         {
             BinaryWriter writer = new BinaryWriter(klient.GetStream());
             writer.Write("string");
             writer.Write(dane);
         }
-
+        /// <summary>
+        /// Wysyła dane typu string z parametrami
+        /// Najpierw przesyla typ danych
+        /// </summary>
+        /// <param name="klient">klient połączenia</param>
+        /// <param name="dane">dane typu string do przesłania</param>
+        /// <param name="parametry">parametry do danych</param>
         public void WyślijDane(TcpClient klient, string dane, string parametry)
         {
             BinaryWriter writer = new BinaryWriter(klient.GetStream());
@@ -53,7 +70,13 @@ namespace Klient_Biblioteka
             writer.Write(dane);
             writer.Write(parametry);
         }
-
+        /// <summary>
+        /// Wysyła dane typu byte[] z parametrami , stala wielkosc tabeli 256
+        /// Najpierw przesyla typ danych
+        /// </summary>
+        /// <param name="klient">klient połączenia</param>
+        /// <param name="dane">dane byte[256] do przesłania</param>
+        /// <param name="parametry">parametry do danych</param>
         public void WyślijDane(TcpClient klient, byte[] dane, string parametry)
         {
             BinaryWriter writer = new BinaryWriter(klient.GetStream());
@@ -61,7 +84,10 @@ namespace Klient_Biblioteka
             writer.Write(dane);
             writer.Write(parametry);
         }
-
+        /// <summary>
+        /// sprawdza typ wyslanych danych, a potem odbiera je i zapisuje do określonego pola klasy, wyswietla dane typu string i parametry
+        /// </summary>
+        /// <param name="klient">klient połączenia</param>
         public void OdbierzDane(TcpClient klient)
         {
             BinaryReader reader = new BinaryReader(klient.GetStream());
