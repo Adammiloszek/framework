@@ -1,0 +1,19 @@
+C:\Arek\Download\NAUKA\nauka2014-2015-2\inrzyneria\Projekt v3\Biblioteka\Klient_Biblioteka\Klient_Biblioteka\bin\Debug\Klient_Biblioteka.dll
+C:\Arek\Download\NAUKA\nauka2014-2015-2\inrzyneria\Projekt v3\Biblioteka\Klient_Biblioteka\Klient_Biblioteka\bin\Debug\Klient_Biblioteka.pdb
+C:\Arek\Download\NAUKA\nauka2014-2015-2\inrzyneria\Projekt v3\Biblioteka\Klient_Biblioteka\Klient_Biblioteka\obj\Debug\Klient_Biblioteka.dll
+C:\Arek\Download\NAUKA\nauka2014-2015-2\inrzyneria\Projekt v3\Biblioteka\Klient_Biblioteka\Klient_Biblioteka\obj\Debug\Klient_Biblioteka.pdb
+C:\Users\st\Desktop\Projekt v3\Biblioteka\Klient_Biblioteka\Klient_Biblioteka\obj\Debug\Klient_Biblioteka.csprojResolveAssemblyReference.cache
+C:\Users\st\Desktop\Projekt v3\Biblioteka\Klient_Biblioteka\Klient_Biblioteka\obj\Debug\Klient_Biblioteka.dll
+C:\Users\st\Desktop\Projekt v3\Biblioteka\Klient_Biblioteka\Klient_Biblioteka\obj\Debug\Klient_Biblioteka.pdb
+C:\Users\st\Desktop\Projekt v3\Biblioteka\Klient_Biblioteka\Klient_Biblioteka\bin\Debug\Klient_Biblioteka.dll
+C:\Users\st\Desktop\Projekt v3\Biblioteka\Klient_Biblioteka\Klient_Biblioteka\bin\Debug\Klient_Biblioteka.pdb
+C:\Users\Komputer\Desktop\V7\Klient_Biblioteka\Klient_Biblioteka\bin\Debug\Klient_Biblioteka.dll
+C:\Users\Komputer\Desktop\V7\Klient_Biblioteka\Klient_Biblioteka\bin\Debug\Klient_Biblioteka.pdb
+C:\Users\Komputer\Desktop\V7\Klient_Biblioteka\Klient_Biblioteka\obj\Debug\Klient_Biblioteka.csprojResolveAssemblyReference.cache
+C:\Users\Komputer\Desktop\V7\Klient_Biblioteka\Klient_Biblioteka\obj\Debug\Klient_Biblioteka.dll
+C:\Users\Komputer\Desktop\V7\Klient_Biblioteka\Klient_Biblioteka\obj\Debug\Klient_Biblioteka.pdb
+C:\Users\Komputer\Desktop\V8\Klient_Biblioteka\Klient_Biblioteka\bin\Debug\Klient_Biblioteka.dll
+C:\Users\Komputer\Desktop\V8\Klient_Biblioteka\Klient_Biblioteka\bin\Debug\Klient_Biblioteka.pdb
+C:\Users\Komputer\Desktop\V8\Klient_Biblioteka\Klient_Biblioteka\obj\Debug\Klient_Biblioteka.csprojResolveAssemblyReference.cache
+C:\Users\Komputer\Desktop\V8\Klient_Biblioteka\Klient_Biblioteka\obj\Debug\Klient_Biblioteka.dll
+C:\Users\Komputer\Desktop\V8\Klient_Biblioteka\Klient_Biblioteka\obj\Debug\Klient_Biblioteka.pdb
