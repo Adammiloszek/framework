@@ -1,9 +1,0 @@
-F:\V6\Serwer_Biblioteka\Serwer_Biblioteka\bin\Release\Serwer_Biblioteka.dll
-F:\V6\Serwer_Biblioteka\Serwer_Biblioteka\bin\Release\Serwer_Biblioteka.pdb
-F:\V6\Serwer_Biblioteka\Serwer_Biblioteka\obj\Release\Serwer_Biblioteka.dll
-F:\V6\Serwer_Biblioteka\Serwer_Biblioteka\obj\Release\Serwer_Biblioteka.pdb
-C:\Users\Komputer\Desktop\V7\Serwer_Biblioteka\Serwer_Biblioteka\obj\Release\Serwer_Biblioteka.csprojResolveAssemblyReference.cache
-C:\Users\Komputer\Desktop\V7\Serwer_Biblioteka\Serwer_Biblioteka\obj\Release\Serwer_Biblioteka.dll
-C:\Users\Komputer\Desktop\V7\Serwer_Biblioteka\Serwer_Biblioteka\obj\Release\Serwer_Biblioteka.pdb
-C:\Users\Komputer\Desktop\V7\Serwer_Biblioteka\Serwer_Biblioteka\bin\Release\Serwer_Biblioteka.dll
-C:\Users\Komputer\Desktop\V7\Serwer_Biblioteka\Serwer_Biblioteka\bin\Release\Serwer_Biblioteka.pdb
