@@ -1,0 +1,4 @@
+C:\Users\Komputer\Desktop\V10\Klient_Biblioteka\Klient_Biblioteka\bin\Release\Klient_Biblioteka.dll
+C:\Users\Komputer\Desktop\V10\Klient_Biblioteka\Klient_Biblioteka\bin\Release\Klient_Biblioteka.pdb
+C:\Users\Komputer\Desktop\V10\Klient_Biblioteka\Klient_Biblioteka\obj\Release\Klient_Biblioteka.dll
+C:\Users\Komputer\Desktop\V10\Klient_Biblioteka\Klient_Biblioteka\obj\Release\Klient_Biblioteka.pdb

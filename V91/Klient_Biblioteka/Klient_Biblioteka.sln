@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Klient_Biblioteka", "Klient_Biblioteka\Klient_Biblioteka.csproj", "{8374D401-911A-4AA7-BD3D-85CD7D9A060F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8374D401-911A-4AA7-BD3D-85CD7D9A060F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8374D401-911A-4AA7-BD3D-85CD7D9A060F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8374D401-911A-4AA7-BD3D-85CD7D9A060F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8374D401-911A-4AA7-BD3D-85CD7D9A060F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
